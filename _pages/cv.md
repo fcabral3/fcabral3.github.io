@@ -15,8 +15,8 @@ Education
 ======
 * **Ph.D in Operations Research**\
   Georgia Institute of Technology 2023 (expected)
-* **M.S. in Applied Mathematics, 2017**\
+* **M.S. in Applied Mathematics, 2018**\
   **M.S. in Mechanical Engineering, 2016**\
-  **B.S. in Applied Mathematics, 2012**\
+  **B.S. in Applied Mathematics, 2013**\
   Federal University of Rio de Janeiro
 
