@@ -11,7 +11,7 @@ author_profile: true
 
 1. **F. Cabral**, A. Sun,
 [Optimal Planning for the Electrification of Bus Fleets in Public Transit System](https://optimization-online.org/2023/04/optimal-planning-for-the-electrification-of-bus-fleets-in-public-transit-systems/) \
-*Submitted.* [(Preprint)](https://optimization-online.org/2023/04/optimal-planning-for-the-electrification-of-bus-fleets-in-public-transit-systems/)
+*Submitted, 2023.* [(Preprint)](https://optimization-online.org/2023/04/optimal-planning-for-the-electrification-of-bus-fleets-in-public-transit-systems/)
 
 2. S. Ahmed, **F. Cabral**, B. da Costa,
 [Stochastic Lipschitz Dynamic Programming](https://link.springer.com/article/10.1007/s10107-020-01569-z) \
