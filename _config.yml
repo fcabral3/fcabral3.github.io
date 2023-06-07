@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Filipe Cabral"
 title_separator          : "-"
 name                     : &name "Filipe Cabral"
-description              : &description "Ph.D. student in Operations Research at the H. Milton Stewart School of Industrial and Systems Engineering. His research interests lie in Stochastic Programming, Integer Programming, Convex Analysis, and Reinforcement Learning."
+description              : &description "Ph.D. in Operations Research from the Georgia Institute of Technology. His research interests lie in Stochastic Programming, Integer Programming, Convex Analysis, and Reinforcement Learning."
 url                      : https://fcabral3.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "fcabral3/fcabral3.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Filipe Cabral"
   avatar           : "filipecabral.jpg"
-  bio              : "Ph.D. candidate in Operations Reserach, Georgia Institute of Technology"
-  location         : "Atlanta, Georgia"
-  employer         : "Georgia Institute of Technology"
+  bio              : "Operations Research and Advanced Analytics Consultant"
+  location         : "Fort Worth, Texas"
+  employer         : "American Airlines"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=hMESC8EAAAAJ&hl=en"
-  email            : "fcabral3@gatech.edu"
+  email            : "fcabral1290@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Filipe-Cabral-4"
   uri              :
   bitbucket        :

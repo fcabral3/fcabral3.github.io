@@ -13,8 +13,8 @@ Download my curriculum vitae [(pdf)](http://fcabral3.github.io/files/fcabral_res
 
 Education
 ======
-* **Ph.D in Operations Research**\
-  Georgia Institute of Technology 2023 (expected)
+* **Ph.D in Operations Research, 2023**\
+  Georgia Institute of Technology
 * **M.S. in Applied Mathematics, 2018**\
   **M.S. in Mechanical Engineering, 2016**\
   **B.S. in Applied Mathematics, 2013**\

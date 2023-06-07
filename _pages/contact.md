@@ -11,9 +11,8 @@ You can contact me at :
 **Filipe Cabral**
 Email:
 
-* fcabral3@gatech.edu
+* fcabral1290@gmail.com
 
 **Address**:
-ISyE Main 449,
-Georgia Institute of Technology,
-Atlanta, GA - 30332.
+1 Skyview Drive
+Fort Worth, TX - 76155.
