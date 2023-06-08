@@ -8,10 +8,8 @@ permalink: /contact/
 
 You can contact me at :
 
-**Filipe Cabral**
-Email:
-
-* fcabral1290@gmail.com
+**Email**:
+fcabral1290@gmail.com
 
 **Address**:
 1 Skyview Drive
