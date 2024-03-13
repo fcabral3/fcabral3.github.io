@@ -61,9 +61,13 @@ author_profile: true
 ## Theses
 
 1. **F. Cabral**
+[Optimal Planning For Electrification Of Public Transit Systems and Infinite-Dimensional Linear Programming.](http://fcabral3.github.io/files/Theses/fcabral_phd_operations_research.pdf) \
+*Ph.D. Thesis, School of Industrial and Systems Engineering, Georgia Institute of Technology, 2023.*
+
+2. **F. Cabral**
 [The Role of Extreme Points for Convex Hull Operations.](http://fcabral3.github.io/files/Theses/fcabral_master_math.pdf) \
 *Master Thesis, Department of Mathematics, Federal University of Rio de Janeiro, 2018.*
 
-2. **F. Cabral**
+3. **F. Cabral**
 [Uma Proposta de um Modelo Periodico Multivariado Autoregressivo Multiplicativo](http://fcabral3.github.io/files/Theses/fcabral_master_mechanical_eng.pdf) \
 *Master Thesis (in Portuguese), Department of Mechanical Engineering, Federal University of Rio de Janeiro, 2016.*
