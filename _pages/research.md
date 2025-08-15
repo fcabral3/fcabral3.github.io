@@ -9,11 +9,15 @@ author_profile: true
 
 ## Publications
 
-1. **F. Cabral**, A. Sun,
+1. R. Legault, **F. Cabral**, A. Sun,
+[Integrated Bus Fleet Electrification Planning Through Accelerated Logic-Based Benders Decomposition and Restriction Heuristics](https://arxiv.org/pdf/2508.05863) \
+*Submitted, 2025.* [(Preprint)](https://arxiv.org/pdf/2508.05863)
+
+2. **F. Cabral**, A. Sun,
 [Optimal Planning for the Electrification of Bus Fleets in Public Transit System](https://optimization-online.org/2023/04/optimal-planning-for-the-electrification-of-bus-fleets-in-public-transit-systems/) \
 *Submitted, 2023.* [(Preprint)](https://optimization-online.org/2023/04/optimal-planning-for-the-electrification-of-bus-fleets-in-public-transit-systems/)
 
-2. S. Ahmed, **F. Cabral**, B. da Costa,
+3. S. Ahmed, **F. Cabral**, B. da Costa,
 [Stochastic Lipschitz Dynamic Programming](https://link.springer.com/article/10.1007/s10107-020-01569-z) \
 *Mathematical Programming, 2020.* [(Preprint)](http://www.optimization-online.org/DB_HTML/2019/05/7193.html)
 
