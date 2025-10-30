@@ -15,6 +15,6 @@ I hold a Ph.D. from the Georgia Institute of Technology,
 where I had the privilege of being mentored by Professor Andy Sun.
 
 I'm thrilled to share that I have recently embarked on a new journey as
-an Operations Research and Advanced Analytics Consultant at American Airlines.
+a Senior Associate in Applied AI/ML at JPMorgan Chase & Co.
 
 Thanks for visiting! Feel free to reach out!
